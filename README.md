@@ -48,6 +48,9 @@ Each row represents a single published study screened under the project’s PRIS
 | `included_in_meta` | boolean | Flag if used in quantitative synthesis |
 
 ---
+### Geographic Distribution of Studies
+
+🔗 [Open Interactive Map](https://github.com/KNOWDYN/ExodusRevisited/blob/main/map_studies_by_region.html)
 
 ## 🧪 Example Usage
 
